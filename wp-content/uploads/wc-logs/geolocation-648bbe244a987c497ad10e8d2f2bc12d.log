@@ -1,0 +1,2 @@
+2024-03-27T18:58:59+00:00 NOTICE Unable to download GeoIP Database: cURL error 28: Failed to connect to geolite.maxmind.com port 80 after 10015 ms: Timeout was reached
+2024-03-27T18:58:59+00:00 NOTICE Unable to download GeoIP Database: cURL error 28: Failed to connect to geolite.maxmind.com port 80 after 10016 ms: Timeout was reached

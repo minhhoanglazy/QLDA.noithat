@@ -1,0 +1,1 @@
+[16-Oct-2017 17:38:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 80254819 bytes) in /home/dangquang/domains/dangquang.hunghaweb.com/public_html/wp-content/plugins/my-wp-backup/vendor/splitbrain/php-archive/src/Zip.php on line 318
