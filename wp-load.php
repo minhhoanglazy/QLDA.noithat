@@ -5,7 +5,7 @@
  * file will then load the wp-settings.php file, which
  * will then set up the WordPress environment.
  * 
- * If the wp-config.php file is not found then an error
+ * If the wp-config.php file is not found then an error 
  * will be displayed asking the visitor to set up the
  * wp-config.php file.
  *
