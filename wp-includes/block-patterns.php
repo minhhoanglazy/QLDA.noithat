@@ -1,7 +1,7 @@
 <?php
 /**
  * Register the block patterns and block patterns categories
- *
+ * 
  * @package WordPress
  * @since 5.5.0
  */
